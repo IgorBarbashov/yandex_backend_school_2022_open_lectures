@@ -1,0 +1,1 @@
+Video: [React (базовый)](https://www.youtube.com/watch?v=bnzcSC8AmHY)
